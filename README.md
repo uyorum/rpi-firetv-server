@@ -1,2 +1,2 @@
-# rpi-firetv-server
-Raspberry Pi compatible Docker image for python-firetv
+# rpi-python-firetv
+Raspberry Pi compatible Docker image for [happyleavesaoc/python-firetv](https://github.com/happyleavesaoc/python-firetv)
